@@ -1,15 +1,22 @@
-# 🚀 Pull Request
+## Descripción
+Explica brevemente los cambios realizados y el motivo.
 
-## 📚 Descripción
-<!-- Describe brevemente qué cambios estás haciendo y por qué. -->
+## Tipo de cambio
+Marca lo que aplica:
 
-## ✅ Checklist
-- [ ] He probado mis cambios localmente.
-- [ ] El código sigue los estándares de estilo del proyecto.
-- [ ] He actualizado la documentación si era necesario.
+- [ ] Bugfix (corrección de error)
+- [ ] Nueva funcionalidad
+- [ ] Refactorización
+- [ ] Mejora de documentación
 
-## 🧪 ¿Cómo probar estos cambios?
-<!-- Instrucciones para que otros puedan testear tus cambios. -->
+## Cómo probar
+Describe los pasos para verificar el correcto funcionamiento de los cambios.
 
-## 📎 Referencias
-<!-- Tickets, issues, o documentos relacionados. Ejemplo: Fixes #123 -->
+## Checklist
+- [ ] El código compila correctamente.
+- [ ] Se agregaron o actualizaron las pruebas.
+- [ ] No se introdujeron errores conocidos.
+- [ ] La documentación relevante ha sido actualizada.
+
+## Información adicional
+Incluye referencias a issues, tickets o cualquier detalle importante.
