@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: .github
+  description: Backstage catalog entry
+  annotations: {}
+spec:
+  type: service
+  lifecycle: production
+  owner: sin-asignar
