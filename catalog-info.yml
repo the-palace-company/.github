@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: .github
   description: Backstage catalog entry
-  annotations: {}
+  annotations:
 spec:
   type: service
   lifecycle: production
